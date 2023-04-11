@@ -1,0 +1,15 @@
+C:\Users\ESAD\source\repos\ClassCalculator\ClassCalculator\obj\Debug\net6.0\ClassCalculator.csproj.AssemblyReference.cache
+C:\Users\ESAD\source\repos\ClassCalculator\ClassCalculator\obj\Debug\net6.0\ClassCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESAD\source\repos\ClassCalculator\ClassCalculator\obj\Debug\net6.0\ClassCalculator.AssemblyInfoInputs.cache
+C:\Users\ESAD\source\repos\ClassCalculator\ClassCalculator\obj\Debug\net6.0\ClassCalculator.AssemblyInfo.cs
+C:\Users\ESAD\source\repos\ClassCalculator\ClassCalculator\obj\Debug\net6.0\ClassCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ESAD\source\repos\ClassCalculator\ClassCalculator\bin\Debug\net6.0\ClassCalculator.exe
+C:\Users\ESAD\source\repos\ClassCalculator\ClassCalculator\bin\Debug\net6.0\ClassCalculator.deps.json
+C:\Users\ESAD\source\repos\ClassCalculator\ClassCalculator\bin\Debug\net6.0\ClassCalculator.runtimeconfig.json
+C:\Users\ESAD\source\repos\ClassCalculator\ClassCalculator\bin\Debug\net6.0\ClassCalculator.dll
+C:\Users\ESAD\source\repos\ClassCalculator\ClassCalculator\bin\Debug\net6.0\ClassCalculator.pdb
+C:\Users\ESAD\source\repos\ClassCalculator\ClassCalculator\obj\Debug\net6.0\ClassCalculator.dll
+C:\Users\ESAD\source\repos\ClassCalculator\ClassCalculator\obj\Debug\net6.0\refint\ClassCalculator.dll
+C:\Users\ESAD\source\repos\ClassCalculator\ClassCalculator\obj\Debug\net6.0\ClassCalculator.pdb
+C:\Users\ESAD\source\repos\ClassCalculator\ClassCalculator\obj\Debug\net6.0\ClassCalculator.genruntimeconfig.cache
+C:\Users\ESAD\source\repos\ClassCalculator\ClassCalculator\obj\Debug\net6.0\ref\ClassCalculator.dll
